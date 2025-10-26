@@ -1,6 +1,6 @@
-# RemindBro Pro
+# RemindBro+
 
-RemindBro Pro is your personal productivity companion — everything you loved about RemindBro, now with more power, flexibility, and style. Stay organized, never miss a reminder, and make it truly yours.
+RemindBro+ is your personal productivity companion — everything you loved about RemindBro, now with more power, flexibility, and style. Stay organized, never miss a reminder, and make it truly yours.
 
 ---
 
